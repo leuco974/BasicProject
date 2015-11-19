@@ -10,3 +10,5 @@
 /vendor/
 /bin/
 /composer.phar
+/bower_conponents
+/node_modules

@@ -1,0 +1,29 @@
+{
+  "name": "BasicProject",
+  "homepage": "https://github.com/leuco974/BasicProject",
+  "authors": [
+    "PAYET Francis <payet.francis974@gmail.com>"
+  ],
+  "description": "Basic package to develop all my Symfony project.",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "symfony"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.*",
+    "bootstrap": "3.3.*"
+  }
+}
